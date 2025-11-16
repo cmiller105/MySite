@@ -1,2 +1,2 @@
 # MySite
-My repo for testing web deployments
+My repo for my personal website
